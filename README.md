@@ -1,26 +1,32 @@
-Vignesh
-🔹 Aspiring IT Professional | Technical Support Enthusiast | Pursuing Security+ & Network+
+Vignesh Biji
 
-💻 About Me
+Aspiring IT Professional | Technical Support | Cybersecurity Enthusiast
 
-I am an aspiring IT professional looking to kickstart my career in technical support. With a strong passion for troubleshooting and problem-solving, I aim to provide excellent customer support and IT solutions. Currently, I am enhancing my knowledge by pursuing CompTIA Security+ and Network+ certifications to build a strong foundation in networking and cybersecurity.
+About Me
 
-🛠️ Skills & Areas of Interest
+I am an aspiring IT professional with a passion for troubleshooting and cybersecurity. Currently, I am pursuing CompTIA Security+ and Network+ certifications while working on a Windows Server and Active Directory home lab to gain hands-on experience.
 
-✅ IT Troubleshooting & Support
-✅ Network Administration (Basic)
-✅ Cybersecurity Fundamentals
-✅ Customer Support & Communication
-✅ Hardware & Software Installation
+Skills & Interests
 
-🎓 Education & Certifications
+Technical Support & Troubleshooting
 
-📌 CompTIA Security+ (In Progress)
-📌 CompTIA Network+ (In Progress)
-📌 BCA (SAS College Konni)
+Network Administration
 
-🔍 Looking for Opportunities
+Cybersecurity Fundamentals
 
-I am actively seeking a Technical Support or Help Desk role to gain hands-on experience and contribute to a dynamic IT team. Open to entry-level positions where I can learn and grow in the IT field.
+Windows Server & Active Directory
 
-📩 Let's Connect! I’d love to connect with IT professionals, recruiters, and cybersecurity enthusiasts.
+Software & Hardware Support
+
+Projects
+
+🔹 Windows Server & Active Directory Home Lab
+
+Building a hands-on lab to learn user management, group policies, and server configurations for real-world IT experience.
+
+Connect with Me
+
+📌 LinkedIn: [Your LinkedIn Profile]
+
+📌 GitHub: [Your GitHub Profile]
+
